@@ -1,0 +1,10 @@
+weasyprint~=61.1
+openai~=1.13.3
+bs4~=0.0.2
+html2text~=2024.2.26
+pyarrow~=15.0.0
+beautifulsoup4~=4.12.3
+google-cloud-storage
+
+selenium~=4.21.0
+pillow~=10.2.0
